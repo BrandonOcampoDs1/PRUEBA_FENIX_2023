@@ -1,0 +1,68 @@
+.item_slidevar{
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration:none;
+    padding: 5px;
+}
+
+.fondo_slidebar{
+    background: rgb(57,57,57);
+    background: linear-gradient(151deg, rgba(57,57,57,1) 0%, rgba(0,111,175,1) 35%, rgba(251,41,41,1) 100%);
+}
+
+.item_slide{
+    color: white;
+    font-size: 18px;
+    letter-spacing: 2px;
+    text-decoration: none;
+    margin-top: 5px;
+}
+
+.menu_slide{
+    background-color: white;
+    color: black;
+}
+
+.item_slide:hover{
+    font-size: 18.5px;
+    border-bottom-style: double;
+    border-bottom-width: 4px;
+    transition:0.3s;
+}
+
+.btn_administrar{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background: #29628D12 0% 0% no-repeat padding-box;
+    border: 0.30000001192092896px solid #29628D;
+}
+
+.botones_administrar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+
+  
+.gradient-custom {
+    background: rgb(57,57,57);
+    background: linear-gradient(151deg, rgba(57,57,57,1) 0%, rgba(0,111,175,1) 35%, rgba(251,41,41,1) 100%);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+  
+
+
+.box_logo{
+    display: flex;
+    justify-content: center;;
+}
+
+.logo_fenix{
+    max-width: 70%;
+}
