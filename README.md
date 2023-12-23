@@ -52,6 +52,15 @@ php artisan db:seed
 <br>
 • CONTRASEÑA=12345678
 
+### CEJECUTAMOS EL SIGUIENTE COMANDO
+```
+npm run dev
+```
+
+### CORREMOS EL SERVIDOR
+```
+php artisan serve
+```
 
 
 ### Desarollado por:
