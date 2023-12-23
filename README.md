@@ -5,7 +5,7 @@
 - **[Clonamos nuestro repositorio]**
 
 ```
-git clone [https://github.com/BrandonOcampoDs1/PRUEBA_FENIX_2023]
+git clone https://github.com/BrandonOcampoDs1/PRUEBA_FENIX_2023
 ```
 
 Ejecutamos nuestro comando [git clone] más el repositorio.
