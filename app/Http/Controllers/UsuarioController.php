@@ -89,7 +89,7 @@ class UsuarioController extends Controller
 
         $id = $request->id;
 
-        // REGISTRAMOS EL PRODUCTO EN LA BASE DE DATOS
+        // REGISTRAMOS EL USUARIO EN LA BASE DE DATOS
         $fecha_hoy = date("Y-m-d H:i:s");
         $Registro_Usuario = User::updateOrCreate(
             [

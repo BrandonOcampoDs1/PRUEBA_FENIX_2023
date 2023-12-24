@@ -11,7 +11,7 @@
             </div>
             <hr>
             <div class="tabla_usuarios">
-                {{-- DATATABLA CON LA LISTA DE LOS PRODUCTOS Y SUS ACCIONES PARA ADMINISTRAR --}}
+                {{-- DATATABLA CON LA LISTA DE LOS USUARIOS --}}
                 <table id="tabla_usuarios" class="display" style="width:100%">
                     <thead>
                         <tr>
